@@ -1,6 +1,6 @@
 # Проектирование дашбордов в Tableau
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[Tableu](https://public.tableau.com/views/Project1_16853645644930/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Описание проекта
 
