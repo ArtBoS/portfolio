@@ -1,6 +1,6 @@
 # Исследование опроса клиентов телекомунникацонной компании
 
-[Tableu дашборды](https://public.tableau.com/views/NPSresearch_17073679811040/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link) [Презентация](https://github.com/ArtBoS/portfolio/blob/main/Project2/NPSv3%20(2).pdf)
+[Tableu дашборды](https://public.tableau.com/views/NPSresearch_17073679811040/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link) [Презентация](https://github.com/ArtBoS/portfolio/blob/main/Project2/NPSv3%20(2).pdf) [ipnyb](https://github.com/ArtBoS/portfolio/blob/main/Project2/Sbornik2.ipynb)
 
 ## Описание проекта
 
