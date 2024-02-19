@@ -1,7 +1,6 @@
 # Выявление закономерностей успешности игр
 
-[WebPDF](https://github.com/ArtBoS/portfolio/blob/main/Project3/%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA.pdf) [ipynb](https://github.com/ArtBoS/portfolio/blob/main/Project3/%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA.ipynb) 
-
+[GoogleColab](https://colab.research.google.com/drive/1vkGF0SGmyOMGobMT2v467OtgIdswLE9z#scrollTo=V1_LTABSnnhz)
 ## Описание проекта
 
 Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
