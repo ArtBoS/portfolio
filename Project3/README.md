@@ -1,6 +1,6 @@
 # Выявление закономерностей успешности игр
 
-[Презентация](https://github.com/ArtBoS/portfolio/blob/main/Project3/%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA.pdf) [ipynb](https://github.com/ArtBoS/portfolio/blob/main/Project3/%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA.ipynb) 
+[WebPDF](https://github.com/ArtBoS/portfolio/blob/main/Project3/%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA.pdf) [ipynb](https://github.com/ArtBoS/portfolio/blob/main/Project3/%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D1%87%D0%B8%D0%BA.ipynb) 
 
 ## Описание проекта
 
