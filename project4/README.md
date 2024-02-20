@@ -1,6 +1,6 @@
 # Составление SQL скрипта для создания сводной таблицы
 
-[result](test.xlsx) [ipynb](SQL.ipynb)
+[result](https://github.com/ArtBoS/portfolio/blob/main/project4/result.xlsx) [ipynb](https://github.com/ArtBoS/portfolio/blob/main/project4/SQL.ipynb)
 
 Тестовое задание по написанию скрипта на языке SQL
 
